@@ -7,4 +7,4 @@ Features to Implement
 
     [ ] Price Logging: Track price fluctuations over time by logging data to a file or database to build a historical record.
 
-    [ ] Multi-Item Support: Refactor the logic to accept a list of URLs or identifiers to track multiple products simultaneously.
+    [x] Multi-Item Support: Refactor the logic to accept a list of URLs or identifiers to track multiple products simultaneously.
